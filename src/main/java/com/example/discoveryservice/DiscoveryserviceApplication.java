@@ -8,6 +8,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @EnableEurekaServer
 public class DiscoveryserviceApplication {
     //000000
+    //0000111
     //0-1-0
     //0-5-0
     //0-6-0_1
